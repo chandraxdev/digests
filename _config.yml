@@ -10,6 +10,7 @@ plugins:
 # newest issues first on the home page
 minima:
   date_format: "%b %-d, %Y"
+  show_excerpts: true   # show each issue's intro paragraph as a summary on the home page
 
 # tidy permalinks: /2026/05/the-monthly-may-2026/
 permalink: /:year/:month/:title/
