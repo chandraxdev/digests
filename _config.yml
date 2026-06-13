@@ -1,0 +1,21 @@
+title: Research Digest
+description: >-
+  A curated newsletter on AI engineering, networking, 5G/6G RAN, AI deals,
+  applied AI tips and Android — hand-picked, with links straight to the source.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# newest issues first on the home page
+minima:
+  date_format: "%b %-d, %Y"
+
+# tidy permalinks: /2026/05/the-monthly-may-2026/
+permalink: /:year/:month/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
