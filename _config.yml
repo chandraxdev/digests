@@ -8,9 +8,11 @@ plugins:
   - jekyll-seo-tag
 
 # newest issues first on the home page
+# show each issue's intro paragraph as a summary on the home page (minima reads this top-level)
+show_excerpts: true
+
 minima:
   date_format: "%b %-d, %Y"
-  show_excerpts: true   # show each issue's intro paragraph as a summary on the home page
 
 # tidy permalinks: /2026/05/the-monthly-may-2026/
 permalink: /:year/:month/:title/
