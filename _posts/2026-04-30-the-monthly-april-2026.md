@@ -64,4 +64,4 @@ An open server that runs models across GPU and NPU — a credible way to get fas
 
 ---
 
-Nothing cleared the bar this month in RAN optimisation, lifetime deals, or Android apps.
+Nothing cleared the bar this month in Android apps.

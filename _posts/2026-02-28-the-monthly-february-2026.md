@@ -56,4 +56,4 @@ A fast, open-weights STT family claiming higher accuracy than Whisper Large — 
 
 ---
 
-Nothing cleared the bar this month in RAN optimisation, lifetime deals, or Android apps.
+Nothing cleared the bar this month in Android apps.

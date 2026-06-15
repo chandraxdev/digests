@@ -60,4 +60,4 @@ The long-running open-source project for building apps with no central servers â
 
 ---
 
-Nothing cleared the bar this month in RAN optimisation, lifetime deals, or Android apps.
+Nothing cleared the bar this month in Android apps.

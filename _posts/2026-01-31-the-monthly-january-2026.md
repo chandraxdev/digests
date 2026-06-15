@@ -54,4 +54,4 @@ A small library for managing and versioning the context you hand an agent.
 
 ---
 
-Nothing cleared the bar this month in RAN optimisation, AI deals, lifetime deals, or Android apps.
+Nothing cleared the bar this month in AI deals or Android apps.

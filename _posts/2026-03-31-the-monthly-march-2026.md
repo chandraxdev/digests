@@ -64,4 +64,4 @@ A detailed write-up of reaching the top of Hugging Face's open leaderboard on co
 
 ---
 
-Nothing cleared the bar this month in RAN optimisation, lifetime deals, or Android apps.
+Nothing cleared the bar this month in Android apps.
